@@ -17,6 +17,11 @@ import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.View;
 
+
+/**
+ * 进度可改变且改变提供回调的原型进度条
+ */
+
 /**
  * A Material style progress wheel, compatible up to 2.2.
  * Todd Davies' Progress Wheel https://github.com/Todd-Davies/ProgressWheel
